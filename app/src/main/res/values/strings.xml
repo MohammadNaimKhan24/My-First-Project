@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Corona Quiz App</string>
+    <string name="COVID_19">COVID-19 affects different \n people in different ways.</string>
+    <string name="Syntoms">Most common symptoms are fever, \n dry cough, tiredness.</string>
+    <string name="SyntomeTime">On average it takes 5–6 days \n from when someone is
+        infected \n with the virus for symptoms to show,
+        \n however it can take up to 17 days.</string>
+    <string name="CleanHands">Clean your hands often. \n Use soap and water,\n
+        or an alcohol-based hand rub.</string>
+    <string name="Touch">Touch your eyes, nose or mouth.</string>
+    <string name="Mask">Wear a mask when physical \n distancing is not possible.</string>
+    <string name="StayHome">Don\'t stay your home \n because it\'s like a boringness.</string>
+    <string name="MedicalAttention">If you have a fever, cough and difficulty \n breathing,
+        seek medical attention.
+    </string>
+    <string name="FoodTaste"> You\'ve noticed you cannot \n smell or taste anything.</string>
+    <string name="OldSafe">The Old are safe from Corona Virus.</string>
+    <string name="Identify">In 2019, a new coronavirus was identified\n
+        as the cause of a disease outbreak \n
+        that originated in USA.</string>
+    <string name="Declaration">In March 2020, the World Health \n Organization <b>(WHO)</b>
+        declared the COVID-19.</string>
+    <string name="Risk">People who are Younger have a higher \n
+        risk of serious illness from COVID-19.</string>
+    <string name="Virus">Coronaviruses are a family of \n viruses that
+        can cause illnesses \n such as the common cold.</string>
+    <string name="correct">You\'re correct!</string>
+    <string name="wrong">You\'re wrong:(</string>
+
+
+</resources>
